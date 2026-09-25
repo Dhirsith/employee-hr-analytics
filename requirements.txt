@@ -1,0 +1,7 @@
+# Tested on Python 3.11; supported on Python 3.9+
+pandas==2.2.3
+matplotlib==3.9.4
+seaborn==0.13.2
+jupyterlab==4.3.6
+pytest==8.3.5
+sqlglot==26.16.4

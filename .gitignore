@@ -1,0 +1,26 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+.jupyter/
+.DS_Store
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+!outputs/figures/.gitkeep
+outputs/tables/*
+!outputs/tables/.gitkeep
+outputs/powerbi/*
+!outputs/powerbi/.gitkeep
+*.log
+# Generated numeric exports stay local; small project-generated charts may be versioned.
